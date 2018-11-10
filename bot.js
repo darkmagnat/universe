@@ -6,11 +6,11 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "508240875072126997"; // ايدي السررفر
-var channel = "508667278137753600";//ايدي الروم
+var server = "509397361307680779"; // ايدي السررفر
+var channel = "510833917708992522";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam , Unevers Town Spam ')
+    client.guilds.get(server).channels.get(channel).send('Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA , Universe : discord.gg/bun7CA')
     },305);
 })
 
-client.login(process.env.توكن الحساب);
+client.login(process.env.BOT_TOKEN);
